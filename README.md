@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio github]
 
 - 💬 Ask me about **Aiken, Meshjs**
 
