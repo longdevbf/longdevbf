@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolio github]
 
-- 💬 Ask me about **Aiken, Meshjs**
-
 - 📫 How to reach me **longtda5k48gtb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
