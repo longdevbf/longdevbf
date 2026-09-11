@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate BlockChain & FullStack Developer</h3>
+<h3 align="center">A passionate Software & Blockchain Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longdevbf&label=Profile%20views&color=0e75b6&style=flat" alt="longdevbf" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@tran_uc18824" target="blank"><img src="https://img.shields.io/twitter/follow/@tran_uc18824?logo=twitter&style=for-the-badge" alt="@tran_uc18824" /></a> </p>
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m a member of [Texlabs](texlabs.org) and working in CKB, Cardano, Midnight, Oasis, EVM chains,..
 
-- 👨‍💻 All of my projects are available at [portfolio github]
+- 👨‍💻 Builder, Researcher, Ambassador
 
 - 📫 How to reach me **longtda5k48gtb@gmail.com**
 
